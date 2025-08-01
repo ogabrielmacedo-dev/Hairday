@@ -1,0 +1,13 @@
+1 - npm i json-server@1.0.0-alpha.21
+
+2 - npm run server/ build / dev
+
+3 - npm i webpack@5.89.0 webpack-cli@5.1.4 --save-dev
+
+4 - npm i webpack-dev-server@4.15.1 --save-dev
+
+5 - npm i html-webpack-plugin@5.6.0 --save-dev
+
+6 - npm i style-loader@3.3.3 css-loader@6.8.1 --save-dev
+
+7 - npm i copy-webpack-plugin@11.0.0 --save-dev
